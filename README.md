@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-nothing to flex here yet
+skibidi toilet
 <!--
 **chungusbungustus/chungusbungustus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
